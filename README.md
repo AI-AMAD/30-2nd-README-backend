@@ -102,10 +102,8 @@
 <br><br>
 
 ---
-# 시연 영상
-추후 추가 예정
-
-<br><br>
+## 시연 영상
+https://youtu.be/Rwv6Gc5rvgo
 ---
 # Reference
 * 이 프로젝트는 [설로인](https://www.sirloin.co.kr/) 사이트를 참조하여 학습목적으로 만들었습니다.
