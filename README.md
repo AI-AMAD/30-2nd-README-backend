@@ -62,7 +62,6 @@
         <a href="#"><img src="https://img.shields.io/badge/python-3873A9?style=plastic&logo=python&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Django-0B4B33?style=plastic&logo=django&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/MySQL-005E85?style=plastic&logo=mysql&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/AWS-FF9701?style=plastic&logo=aws&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/bcrypt-525252?style=plastic&logo=bcrypt&logoColor=white"/></a>
      <a href="#"><img src="https://img.shields.io/badge/postman-F76934?style=plastic&logo=postman&logoColor=white"/></a>
     * ### Common  
@@ -88,14 +87,6 @@
         - limit,offset을 이용한 pagenation 구현
     * 좋아요
         - 하나의 리뷰가 몇개의 좋아요를 받았는지 엔드포인트로 전달
-    * 주문
-        - 모듈화를 이용해 분기처리시 코드의 가독성 향상
-<br><br>
-
----
-# API 기능정의서
-추후 
-
 <br><br>
 
 ---
